@@ -1,107 +1,214 @@
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\appsettings.Development.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\appsettings.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AuctionService.exe
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AuctionService.deps.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AuctionService.runtimeconfig.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AuctionService.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AuctionService.pdb
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.GeneratedMSBuildEditorConfig.editorconfig
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.AssemblyInfoInputs.cache
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.AssemblyInfo.cs
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.csproj.CoreCompileInputs.cache
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.MvcApplicationPartsAssemblyInfo.cache
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.sourcelink.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets.build.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets.development.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets\msbuild.AuctionService.Microsoft.AspNetCore.StaticWebAssets.props
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets\msbuild.build.AuctionService.props
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuctionService.props
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuctionService.props
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\staticwebassets.pack.json
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\scopedcss\bundle\AuctionService.styles.css
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\refint\AuctionService.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.pdb
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.genruntimeconfig.cache
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\ref\AuctionService.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\AutoMapper.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Humanizer.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Npgsql.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.CodeDom.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionService.csproj.AssemblyReference.cache
-C:\NET NEXTJS MICROSERVICES\Carsties\src\AuctionService\obj\Debug\net8.0\AuctionS.72D7E915.Up2Date
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/appsettings.Development.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/appsettings.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.exe
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.deps.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.runtimeconfig.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.pdb
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.AssemblyInfoInputs.cache
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.AssemblyInfo.cs
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CoreCompileInputs.cache
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.MvcApplicationPartsAssemblyInfo.cache
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.build.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.development.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.AuctionService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.build.AuctionService.props
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AuctionService.props
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AuctionService.props
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.pack.json
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/scopedcss/bundle/AuctionService.styles.css
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/refint/AuctionService.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/AutoMapper.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Humanizer.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Npgsql.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.CodeDom.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.AssemblyReference.cache
+C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionS.72D7E915.Up2Date
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/appsettings.Development.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/appsettings.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.deps.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.runtimeconfig.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AuctionService.pdb
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/AutoMapper.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Humanizer.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Npgsql.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.CodeDom.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.AssemblyReference.cache
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.GeneratedMSBuildEditorConfig.editorconfig
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.AssemblyInfoInputs.cache
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.AssemblyInfo.cs
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CoreCompileInputs.cache
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.MvcApplicationPartsAssemblyInfo.cache
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.build.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.development.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.AuctionService.Microsoft.AspNetCore.StaticWebAssets.props
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.build.AuctionService.props
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AuctionService.props
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AuctionService.props
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/staticwebassets.pack.json
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/scopedcss/bundle/AuctionService.styles.css
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CopyComplete
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/refint/AuctionService.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll

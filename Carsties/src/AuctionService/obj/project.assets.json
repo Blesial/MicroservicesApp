@@ -2141,36 +2141,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IQUIRELLI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/blesial/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NET NEXTJS MICROSERVICES\\Carsties\\src\\AuctionService\\AuctionService.csproj",
+      "projectUniqueName": "/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/AuctionService.csproj",
       "projectName": "AuctionService",
-      "projectPath": "C:\\NET NEXTJS MICROSERVICES\\Carsties\\src\\AuctionService\\AuctionService.csproj",
-      "packagesPath": "C:\\Users\\IQUIRELLI\\.nuget\\packages\\",
-      "outputPath": "C:\\NET NEXTJS MICROSERVICES\\Carsties\\src\\AuctionService\\obj\\",
+      "projectPath": "/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/AuctionService.csproj",
+      "packagesPath": "/home/blesial/.nuget/packages/",
+      "outputPath": "/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\IQUIRELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/blesial/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://tunstallgroup.pkgs.visualstudio.com/_packaging/TSP/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -2182,11 +2171,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2225,16 +2209,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://tunstallgroup.pkgs.visualstudio.com/_packaging/TSP/nuget/v3/index.json."
-    }
-  ]
+  }
 }
