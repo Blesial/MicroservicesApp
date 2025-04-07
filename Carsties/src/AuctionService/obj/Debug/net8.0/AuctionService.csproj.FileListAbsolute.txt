@@ -212,3 +212,10 @@ C:/NET NEXTJS MICROSERVICES/Carsties/src/AuctionService/obj/Debug/net8.0/Auction
 /home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
 /home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
 /home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.dll
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
+/home/blesial/Microservices/MicroservicesApp/Carsties/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll

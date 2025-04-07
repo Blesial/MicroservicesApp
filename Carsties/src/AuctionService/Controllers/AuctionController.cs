@@ -3,6 +3,8 @@ using AuctionService.Entities;
 using AuctionService.Infrastructure;
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
+using Contracts;
+using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,11 +16,13 @@ public class AuctionController : ControllerBase
 {	
     private readonly AuctionDbContext _auctionDbContext;
     private readonly IMapper _mapper;
+	private readonly IPublishEndpoint _publishEndpoint;
 
-    public AuctionController(AuctionDbContext dbContext, IMapper mapper)
+    public AuctionController(AuctionDbContext dbContext, IMapper mapper, IPublishEndpoint publishEndpoint)
     {
         _auctionDbContext = dbContext;
 		_mapper = mapper;
+		_publishEndpoint = publishEndpoint;
     }
 
 	[HttpGet("")]
@@ -75,6 +79,14 @@ public class AuctionController : ControllerBase
 
 		_auctionDbContext.Auctions.Add(auction);
 
+		// Publish the auction created to the message broker
+		var newAuction = _mapper.Map<AuctionDto>(auction);
+		await _publishEndpoint.Publish(_mapper.Map<AuctionCreated>(newAuction));
+
+		// Now the add and publish are done in the same transaction
+		// This is important because if the publish fails, we don't want to save the auction to the database.
+		// If the publish fails, we can roll back the transaction and not save the auction to the database.
+
 		var result = await _auctionDbContext.SaveChangesAsync() > 0; // This saveChanges returns a number of what changes did
 		// one or more rows affected
 
@@ -87,8 +99,7 @@ public class AuctionController : ControllerBase
 		// Second we provide the parameter that the action where the resource is needs.
 		// Finally we provide the auction Object created but we first need to convert it to a dto to be returned to the client.
 		return CreatedAtAction(nameof(GetAuctionById),
-		 	new { auction.Id },	_mapper.Map<AuctionDto>(auction));
-		
+		 	new { auction.Id },	newAuction);
 		// This createdAtAction will return in the Headers of the HttpResponse a Key "Location"
 		//  Pointing to the url where this resource can be taken from
 	}
@@ -113,9 +124,13 @@ public class AuctionController : ControllerBase
 		auction.Item.Color = updateAuctionDto.Color ?? auction.Item.Color;
 		auction.Item.Mileage = updateAuctionDto.Mileage ?? auction.Item.Mileage;
 
+		var updatedAuction = _mapper.Map<AuctionUpdated>(auction);
+
+		await _publishEndpoint.Publish(updatedAuction);
+
 		var result = await _auctionDbContext.SaveChangesAsync() > 0;
 
-		return result ? Ok() : BadRequest("Problem saving changes!");
+		return result ? Ok() : BadRequest("Problem saving changes!"); 
 	}
 
 	[HttpDelete("{id}")]
@@ -132,6 +147,12 @@ public class AuctionController : ControllerBase
 		// TODO: CHECK SELLER == USERNAME
 
 		_auctionDbContext.Auctions.Remove(auction);
+
+		// Publish the auction deleted to the message broker
+		await _publishEndpoint.Publish(new 
+		{
+			Id = auction.Id.ToString()
+		});
 
 		var result = await _auctionDbContext.SaveChangesAsync() > 0;
 
