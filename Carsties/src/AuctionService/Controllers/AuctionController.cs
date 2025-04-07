@@ -2,6 +2,7 @@ using AuctionService.Dtos;
 using AuctionService.Entities;
 using AuctionService.Infrastructure;
 using AutoMapper;
+using AutoMapper.QueryableExtensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,14 +22,32 @@ public class AuctionController : ControllerBase
     }
 
 	[HttpGet("")]
-	public async Task<ActionResult<List<AuctionDto>>> GetAllAuctions()
+	public async Task<ActionResult<List<AuctionDto>>> GetAllAuctions(string date)
 	{
-		var auctions = await _auctionDbContext.Auctions
-		.Include(x => x.Item)
-		.OrderBy(x => x.Item.Make)
-		.ToListAsync();
+		// Using AsQueryable() allows you to build up a query dynamically.
+		// This is useful when you want to apply additional filters or sorting based on user input.
+		// based on runtime information.
+		var query = _auctionDbContext.Auctions
+			.OrderBy(x => x.Item.Make)
+			.AsQueryable(); //  To make further queries
 
-		return _mapper.Map<List<AuctionDto>>(auctions);
+		if (!string.IsNullOrEmpty(date))
+		{
+			// If the parsed date is interpreted as local time (or as an unspecified kind),
+			//  and your database stores dates in UTC, the comparison could be off by the difference 
+			// between the local time zone and UTC.
+			query = query.Where(x => x.UpdatedAt.CompareTo(DateTime.Parse(date).ToUniversalTime()) > 0);
+		}
+
+
+		return await query.ProjectTo<AuctionDto>(_mapper.ConfigurationProvider)
+			.ToListAsync();
+		// ProjectTo is a method provided by AutoMapper that allows you to project your query directly into a DTO.
+		// This is more efficient than loading the entire entity and then mapping it to a DTO.
+		// It generates a SQL query that selects only the fields you need for the DTO,
+		//  which can significantly reduce the amount of data transferred from the database.
+		// This is especially useful when dealing with large datasets or when you only need a subset of the data.
+		// The ToListAsync method executes the query and returns the results as a list.
 	}
 
 	[HttpGet("{id}")]
