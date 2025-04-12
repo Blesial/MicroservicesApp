@@ -5,6 +5,7 @@ using AutoMapper;
 using AutoMapper.QueryableExtensions;
 using Contracts;
 using MassTransit;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -69,13 +70,14 @@ public class AuctionController : ControllerBase
 		return _mapper.Map<AuctionDto>(auction);
 	}
 
+	[Authorize]
 	[HttpPost]
 	public async Task<ActionResult<AuctionDto>> CreateAuction(CreateAuctionDto auctionDto)
 	{	
 		var auction = _mapper.Map<Auction>(auctionDto);
 
 		// Check User Authentication as seller to create an auction
-		auction.Seller = "Test";
+		auction.Seller = User.Identity.Name;
 
 		_auctionDbContext.Auctions.Add(auction);
 
@@ -104,6 +106,7 @@ public class AuctionController : ControllerBase
 		//  Pointing to the url where this resource can be taken from
 	}
 
+	[Authorize]
 	[HttpPut("{id}")]
 	public async Task<IActionResult> UpdateAuction(Guid id, UpdateAuctionDto updateAuctionDto)
 	{
@@ -115,8 +118,8 @@ public class AuctionController : ControllerBase
 			return NotFound();
 		}
 
-		// TODO: Seller name matches the User name trying to update
-		// check seller == username
+		// Seller name matches the User name trying to update
+		if (auction.Seller != User.Identity.Name) return Forbid();
 
 		auction.Item.Make = updateAuctionDto.Make ?? auction.Item.Make;
 		auction.Item.Model = updateAuctionDto.Model ?? auction.Item.Model;
@@ -133,6 +136,7 @@ public class AuctionController : ControllerBase
 		return result ? Ok() : BadRequest("Problem saving changes!"); 
 	}
 
+	[Authorize]
 	[HttpDelete("{id}")]
 	public async Task<IActionResult> DeleteAuction(Guid id)
 	{
@@ -145,11 +149,12 @@ public class AuctionController : ControllerBase
 		}
 
 		// TODO: CHECK SELLER == USERNAME
+		if (auction.Seller != User.Identity.Name) return Forbid();
 
 		_auctionDbContext.Auctions.Remove(auction);
 
 		// Publish the auction deleted to the message broker
-		await _publishEndpoint.Publish(new 
+		await _publishEndpoint.Publish(new AuctionDeleted
 		{
 			Id = auction.Id.ToString()
 		});

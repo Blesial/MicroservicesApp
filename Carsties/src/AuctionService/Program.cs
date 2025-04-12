@@ -1,6 +1,7 @@
 using AuctionService.Consumers;
 using AuctionService.Infrastructure;
 using MassTransit;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -39,6 +40,19 @@ builder.Services.AddMassTransit(x => {
 		cfg.ConfigureEndpoints(context);
 	});
 });
+
+// Adding the JwtBearer authentication scheme
+// This is used to authenticate users via JWT tokens.
+// We are telling how to validate the token.
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+	.AddJwtBearer(options => 
+		{
+			options.Authority = builder.Configuration["IdentityServerUrl"]; // Tells who has issued the token
+			options.RequireHttpsMetadata = false; // For development purposes, we are not using HTTPS
+			options.TokenValidationParameters.ValidateAudience = false; // We are not validating the audience
+			options.TokenValidationParameters.NameClaimType = "username"; // The claim type that contains the name of the user
+		}
+	);
 // Scanning for Consumers/Sagas:
 // MassTransit inspects the DI container to discover all your message handlers (consumers and sagas) automatically.
 // Auto-Configuring Receive Endpoints:
@@ -48,6 +62,8 @@ builder.Services.AddMassTransit(x => {
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+
+app.UseAuthentication(); // is before UseAuthorization 
 
 app.UseAuthorization();
 
